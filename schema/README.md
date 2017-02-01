@@ -14,5 +14,5 @@ Modules :
 
 ![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/schema/images/dht22.png)  
 ![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/schema/images/esp.png)  
-![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/schema/images/lcd.png)  
+![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/schema/images/lcd.jpg)
 
