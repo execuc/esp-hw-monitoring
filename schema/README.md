@@ -11,7 +11,8 @@ LCD and touch screen are controlled by the arduino with SPI.
 ![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/pcb/images/schema.png)  
 
 Modules :
-![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/pcb/images/dht22.png)  
-![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/pcb/images/esp.png)  
-![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/pcb/images/lcd.png)  
+
+![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/schema/images/dht22.png)  
+![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/schema/images/esp.png)  
+![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/schema/images/lcd.png)  
 
