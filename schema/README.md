@@ -8,7 +8,7 @@ There are thre components (see illustrations):
  
 LCD and touch screen are controlled by the arduino with SPI.
 
-![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/pcb/images/schema.png)  
+![Illustration](https://github.com/execuc/esp-hw-monitoring/blob/master/schema/images/schema.png)  
 
 Modules :
 
